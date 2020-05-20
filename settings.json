@@ -1,0 +1,22 @@
+{
+	"editor.formatOnSave": true, // Автосохранение.
+	"editor.glyphMargin": false, // Для дебага.
+	"editor.minimap.enabled": false, // Сбоку быстрый просмотр.
+	"files.autoSave": "off",
+	"window.zoomLevel": 1,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.colorTheme": "Dracula",
+	"C_Cpp.updateChannel": "Insiders",
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.fontSize": 14,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"files.defaultLanguage": "${activeEditorLanguage}",
+	"workbench.editor.tabSizing": "shrink",
+	"editor.insertSpaces": false,
+	"editor.folding": false,
+	"workbench.activityBar.visible": false,
+	"cSpell.language": "en,ru",
+	"cSpell.diagnosticLevel": "Hint",
+	"window.menuBarVisibility": "toggle",
+}
